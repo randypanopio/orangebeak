@@ -1,0 +1,18 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# other binaries
+*.test
+*.out
+
+# Dependencies
+config.yaml
+.vscode/
+dist/
+*.crt
+*.key
+*.csr
